@@ -1,6 +1,6 @@
 ![I am Web Developer](https://i.ibb.co/2h5Yrzc/Sohan-Banner.jpg)
 
-# Hi there 👋, my name is Sohan Perves
+# Hi there 👋, My Name is Sohan Perves.
 #### I am Web Developer
 
 
