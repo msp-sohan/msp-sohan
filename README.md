@@ -6,7 +6,7 @@
 
 Welcome to my Profile! I am a dedicated and versatile freelancer with expertise in web development and digital marketing. With a passion for creating impactful online experiences, I help businesses and individuals achieve their goals through effective digital strategies.
 
-Skills: HTML / CSS  /  Tailwind / Bootstrap /  JS / REACT / Express.js / Node.js / Mongodb
+Skills: HTML / CSS  /  Tailwind / Bootstrap / Material UI / JS / REACT.js / NEXT.js / Express.js / Node.js / Mongodb
 
 - 🔭 I’m currently working on Learning 
 - 🌱 I’m currently learning MARN Stack  
