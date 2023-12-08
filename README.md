@@ -85,7 +85,7 @@ I am a frontend (MERN stack) developer, passionate about delivering exceptional 
 </table>
 </p>
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=mspsohan&theme=dark&border_radius=4&date_format=j%20M%5B%20Y%5D&card" height="220" alt="streak graph"  />
@@ -95,7 +95,7 @@ I am a frontend (MERN stack) developer, passionate about delivering exceptional 
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mspsohan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
-# 💫 Current overview:
+## 💫 Current overview:
 
 🔭 I’m currently working on my Personal Projects, exploring new ideas, and refining my skills.<br> 👯 I’m looking to collaborate on innovative web development projects that push boundaries.<br> 🤝 I’m looking for help with staying updated on the latest industry trends and best practices in web development.<br> 🌱 I’m currently learning more about advanced concepts in the MERN stack to enhance my expertise.<br> 💬 Ask me about web development, and my journey into the tech world.<br>
 
