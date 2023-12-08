@@ -88,10 +88,12 @@ I am a frontend (MERN stack) developer, passionate about delivering exceptional 
 # 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mspsohan&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mspsohan&theme=dark&border_radius=4&date_format=j%20M%5B%20Y%5D&card" height="220" alt="streak graph"  />
 </div>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mspsohan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mspsohan&theme=dark&border_radius=4&date_format=j%20M%5B%20Y%5D&card)](https://git.io/streak-stats) -->
+
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mspsohan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
 # 💫 Current overview:
 
@@ -109,6 +111,6 @@ I am a frontend (MERN stack) developer, passionate about delivering exceptional 
 ![](https://github-readme-stats.vercel.app/api?username=mspsohan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=mspsohan&theme=dark&hide_border=false)<br/> -->
 
----
+<!-- ---
 
-[![](https://visitcount.itsvg.in/api?id=mspsohan&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=mspsohan&icon=0&color=0)](https://visitcount.itsvg.in) -->
