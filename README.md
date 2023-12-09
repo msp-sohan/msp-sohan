@@ -26,7 +26,7 @@ I am a frontend (MERN stack) developer, passionate about delivering exceptional 
 
 </p>
 
-<h2>⚡ Languages and Tools:</h2>
+<h2>⚡ Tech Stack:</h2>
 
 <table align="center">
    <tr>
@@ -61,27 +61,27 @@ I am a frontend (MERN stack) developer, passionate about delivering exceptional 
   </tr>
      <tr>
       <td align="center" width="90">
-         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="icon" width="100" height="35" />
+         <img src="https://skillicons.dev/icons?i=html" alt="icon" width="100" height="35" />
       <br>Html
     </td>
       <td align="center" width="90">
-         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="icon" width="55" height="35" />
+         <img src="https://skillicons.dev/icons?i=css" alt="icon" width="55" height="35" />
       <br>Css
       </td>
       <td align="center" width="90">
-         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="icon" width="30" height="35" />
+         <img src="https://skillicons.dev/icons?i=figma" alt="icon" width="30" height="35" />
       <br>Figma
       </td>
       <td align="center" width="90">
-         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="icon" width="35" height="35" />
+         <img src="https://skillicons.dev/icons?i=firebase" alt="icon" width="35" height="35" />
       <br>Firebase
       </td>
       <td align="center" width="90">
-         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="icon" width="35" height="35" />
+         <img src="https://skillicons.dev/icons?i=git" alt="icon" width="35" height="35" />
       <br>Git
       </td>
       <td align="center" width="90">
-         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="icon" width="35" height="35" />
+         <img src="https://skillicons.dev/icons?i=postman" alt="icon" width="35" height="35" />
       <br>Postman
       </td>
    </tr>
