@@ -5,7 +5,7 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mspsohan&label=Profile%20views&color=0e75b6&style=flat" alt="mspsohan" /> </p> -->
 
 <h1 align="center">Hi 👋, I'm Md. Sohan Perves</h1>
-<h3 align="center">A passionate frontend developer from BD.</h3>
+<h3 align="center">A passionate frontend developer from Bangladesh.</h3>
 
 ## 👩 About me:
 
@@ -94,15 +94,93 @@ I am a frontend (MERN stack) developer, passionate about delivering exceptional 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=mspsohan&theme=dark&border_radius=4&date_format=j%20M%5B%20Y%5D&card" height="220" alt="streak graph"  />
 </div>
 
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mspsohan&theme=dark&border_radius=4&date_format=j%20M%5B%20Y%5D&card)](https://git.io/streak-stats) -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mspsohan&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="170" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mspsohan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="170" alt="streak graph"  />
+</div>
 
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mspsohan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## 💫 Current overview:
 
-🔭 I’m currently working on my Personal Projects, exploring new ideas, and refining my skills.<br> 👯 I’m looking to collaborate on innovative web development projects that push boundaries.<br> 🤝 I’m looking for help with staying updated on the latest industry trends and best practices in web development.<br> 🌱 I’m currently learning more about advanced concepts in the MERN stack to enhance my expertise.<br> 💬 Ask me about web development, and my journey into the tech world.<br>
+🔭 I’m currently working on my Personal Projects, exploring new ideas, and refining my skills.<br> 👯 I’m looking to collaborate on innovative web development projects that push boundaries.<br> 🤝 I’m looking for help with staying updated on the latest industry trends and best practices in web development.<br> 🌱 I’m currently learning more about advanced concepts in the MERN stack to enhance my expertise.<br> 💬 Ask me about web development, and my journey into the tech world.<br> </br></br>
 
 <!-- ⚡ Fun fact: I'm passionate about exploring diverse cuisines and love experimenting with cooking in my free time.<br> -->
+
+# Featured Projects
+
+Welcome to the showcase of my featured projects! Each project represents my commitment to showcasing my skills. Explore the details below:
+
+## 1. InventoHub - Inventory Management (MERN Stack)
+
+### Project Overview:
+
+-  Inventory management system using the MERN stack (MongoDB, Express, React, Node.js).
+-  CRUD operations for product management and RESTful APIs for seamless communication.
+-  Responsive design principles with Tailwind CSS and Material UI for an optimal user experience.
+
+### Technology Stack:
+
+-  **Front-end:** Html, Css, React.js, Tailwind CSS, Material UI
+-  **Back-end:** Node.js, Express.js, Mongoose, MongoDB
+-  **Others:** JWT, Firebase, Payment Gateway
+
+### [Live Website](https://inventohub.netlify.app)
+
+### [Client Side Repository](https://github.com/mspsohan/inventohub-client)
+
+### [Server Side Repository](https://github.com/mspsohan/inventohub-server)
+
+</br>
+
+## 2. The Library - Library Management
+
+### Project Overview:
+
+-  Robust library management system with a strong focus on user experience.
+-  Integrated search functionality using React and MongoDB for efficient data storage.
+-  Implemented authentication and authorization features for access control.
+
+### Technology Stack:
+
+-  **Front-end:** Html, Css, React.js, Tailwind CSS
+-  **Back-end:** Node.js, Express.js, MongoDB
+-  **Others:** JWT, Firebase
+
+### [Live Website](https://the-library-0.netlify.app)
+
+### [Client Side Repository](https://github.com/mspsohan/library-managements-client)
+
+### [Server Side Repository](https://github.com/mspsohan/library-management-server)
+
+</br>
+
+## 3. Cosmico - Online Shop (MERN Stack)
+
+### Project Overview:
+
+-  Full-stack Online Shop developed using the MERN stack (MongoDB, Express, React, Node.js).
+-  Responsive React front-end for an optimal user experience.
+-  Integrated a secure shopping cart and collaborated on Stripe payment integration.
+-  Back-end functionality for storing and managing data in MongoDB.
+
+### Technology Stack:
+
+-  **Front-end:** Html, Css, React.js, Tailwind CSS
+-  **Back-end:** Node.js, Express.js, MongoDB
+-  **Others:** Firebase, Payment Gateway
+
+### [Live Website](https://cosmico-brand-shop.netlify.app)
+
+### [Client Side Repository](https://github.com/mspsohan/cosmico-brand-shop-client)
+
+### [Server Side Repository](https://github.com/mspsohan/cosmico-brand-shop-server)
+
+## ✍️ Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" height="220" width="" alt="streak graph"  />
+</div>
 
 <!--
 
