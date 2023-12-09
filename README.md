@@ -1,4 +1,7 @@
-<p align="center"> <img src="./assets/github-banner.png" alt="Sohan Perves" /> </p>
+[![Sohan Perves](./assets/github-banner.png)](https://linkedin.com/in/mspsohan)
+
+<!-- <p align="center"><a herf="https://linkedin.com/in/mspsohan"><img src="./assets/github-banner.png" alt="Sohan Perves" /></a> </p> -->
+<!-- profile view -->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mspsohan&label=Profile%20views&color=0e75b6&style=flat" alt="mspsohan" /> </p> -->
 
 <h1 align="center">Hi 👋, I'm Md. Sohan Perves</h1>
