@@ -1,3 +1,9 @@
+<style>
+  a {
+    text-decoration: none;
+  }
+</style>
+
 [![Sohan Perves](./assets/github-banner.png)](https://linkedin.com/in/mspsohan)
 
 <!-- Profile View
@@ -108,7 +114,7 @@ I am a frontend (MERN stack) developer, passionate about delivering exceptional 
 
 Welcome to the showcase of my featured projects! Each project represents my commitment to showcasing my skills. Explore the details below:
 
-## <span style="color: #1fd0b2">1. InventoHub - Inventory Management (MERN Stack)</span>
+## <font color="#1fd0b2">1. InventoHub - Inventory Management (MERN Stack)</font>
 
 ### Project Overview:
 
@@ -138,7 +144,7 @@ Welcome to the showcase of my featured projects! Each project represents my comm
 
 </br>
 
-## <span style="color: #1fd0b2">2. The Library - Library Management</span>
+## <font color="#1fd0b2">2. The Library - Library Management</font>
 
 ### Project Overview:
 
@@ -155,20 +161,20 @@ Welcome to the showcase of my featured projects! Each project represents my comm
 <table>
   <tr>
     <td style="border: 1px solid white; padding: 5px 20px;">
-      <a href="https://the-library-0.netlify.app" style="font-size: 20px;">Live Website</a>
+      <a href="https://the-library-0.netlify.app" style="font-size: 20px; text-decoration: none;">Live Website</a>
     </td>
     <td style="border: 1px solid white; padding: 5px 20px">
-      <a href="https://github.com/mspsohan/library-managements-client" style="font-size: 20px;">Client Side Repository</a>
+      <a href="https://github.com/mspsohan/library-managements-client" style="font-size: 20px; text-decoration: none;">Client Side Repository</a>
     </td>
     <td style="border: 1px solid white; padding: 5px 20px">
-      <a href="https://github.com/mspsohan/library-management-server" style="font-size: 20px; ">Server Side Repository</a>
+      <a href="https://github.com/mspsohan/library-management-server" style="font-size: 20px; text-decoration: none;">Server Side Repository</a>
     </td>
   </tr>
 </table>
 
 </br>
 
-## <span style="color: #1fd0b2">3. Cosmico - Online Shop (MERN Stack)</span>
+## <font color="#1fd0b2">3. Cosmico - Online Shop (MERN Stack)</font>
 
 ### Project Overview:
 
