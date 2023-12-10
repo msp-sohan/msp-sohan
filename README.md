@@ -1,8 +1,7 @@
 [![Sohan Perves](./assets/github-banner.png)](https://linkedin.com/in/mspsohan)
 
-<!-- <p align="center"><a herf="https://linkedin.com/in/mspsohan"><img src="./assets/github-banner.png" alt="Sohan Perves" /></a> </p> -->
-<!-- profile view -->
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mspsohan&label=Profile%20views&color=0e75b6&style=flat" alt="mspsohan" /> </p> -->
+<!-- Profile View
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mspsohan&label=Profile%20views&color=0e75b6&style=flat" alt="mspsohan" /> </p> -->
 
 <h1 align="center">Hi 👋, I'm Md. Sohan Perves</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
@@ -95,11 +94,9 @@ I am a frontend (MERN stack) developer, passionate about delivering exceptional 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mspsohan&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="170" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=mspsohan&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="170" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mspsohan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="170" alt="streak graph"  />
 </div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## 💫 Current overview:
 
@@ -111,7 +108,7 @@ I am a frontend (MERN stack) developer, passionate about delivering exceptional 
 
 Welcome to the showcase of my featured projects! Each project represents my commitment to showcasing my skills. Explore the details below:
 
-## 1. InventoHub - Inventory Management (MERN Stack)
+## <span style="color: #1fd0b2">1. InventoHub - Inventory Management (MERN Stack)</span>
 
 ### Project Overview:
 
@@ -125,15 +122,23 @@ Welcome to the showcase of my featured projects! Each project represents my comm
 -  **Back-end:** Node.js, Express.js, Mongoose, MongoDB
 -  **Others:** JWT, Firebase, Payment Gateway
 
-### [Live Website](https://inventohub.netlify.app)
-
-### [Client Side Repository](https://github.com/mspsohan/inventohub-client)
-
-### [Server Side Repository](https://github.com/mspsohan/inventohub-server)
+<table>
+  <tr>
+    <td style="border: 1px solid white; padding: 5px 20px;">
+      <a href="https://inventohub.netlify.app" style="font-size: 20px;">Live Website</a>
+    </td>
+    <td style="border: 1px solid white; padding: 5px 20px">
+      <a href="https://github.com/mspsohan/inventohub-client" style="font-size: 20px;">Client Side Repository</a>
+    </td>
+    <td style="border: 1px solid white; padding: 5px 20px">
+      <a href="https://github.com/mspsohan/inventohub-server" style="font-size: 20px; ">Server Side Repository</a>
+    </td>
+  </tr>
+</table>
 
 </br>
 
-## 2. The Library - Library Management
+## <span style="color: #1fd0b2">2. The Library - Library Management</span>
 
 ### Project Overview:
 
@@ -147,15 +152,23 @@ Welcome to the showcase of my featured projects! Each project represents my comm
 -  **Back-end:** Node.js, Express.js, MongoDB
 -  **Others:** JWT, Firebase
 
-### [Live Website](https://the-library-0.netlify.app)
-
-### [Client Side Repository](https://github.com/mspsohan/library-managements-client)
-
-### [Server Side Repository](https://github.com/mspsohan/library-management-server)
+<table>
+  <tr>
+    <td style="border: 1px solid white; padding: 5px 20px;">
+      <a href="https://the-library-0.netlify.app" style="font-size: 20px;">Live Website</a>
+    </td>
+    <td style="border: 1px solid white; padding: 5px 20px">
+      <a href="https://github.com/mspsohan/library-managements-client" style="font-size: 20px;">Client Side Repository</a>
+    </td>
+    <td style="border: 1px solid white; padding: 5px 20px">
+      <a href="https://github.com/mspsohan/library-management-server" style="font-size: 20px; ">Server Side Repository</a>
+    </td>
+  </tr>
+</table>
 
 </br>
 
-## 3. Cosmico - Online Shop (MERN Stack)
+## <span style="color: #1fd0b2">3. Cosmico - Online Shop (MERN Stack)</span>
 
 ### Project Overview:
 
@@ -170,28 +183,22 @@ Welcome to the showcase of my featured projects! Each project represents my comm
 -  **Back-end:** Node.js, Express.js, MongoDB
 -  **Others:** Firebase, Payment Gateway
 
-### [Live Website](https://cosmico-brand-shop.netlify.app)
-
-### [Client Side Repository](https://github.com/mspsohan/cosmico-brand-shop-client)
-
-### [Server Side Repository](https://github.com/mspsohan/cosmico-brand-shop-server)
+<table>
+  <tr>
+    <td style="border: 1px solid white; padding: 5px 20px;">
+      <a href="https://cosmico-brand-shop.netlify.app" style="font-size: 20px;">Live Preview</a>
+    </td>
+    <td style="border: 1px solid white; padding: 5px 20px">
+      <a href="https://github.com/mspsohan/cosmico-brand-shop-client" style="font-size: 20px;">Client Side Repository</a>
+    </td>
+    <td style="border: 1px solid white; padding: 5px 20px">
+      <a href="https://github.com/mspsohan/cosmico-brand-shop-server" style="font-size: 20px; ">Server Side Repository</a>
+    </td>
+  </tr>
+</table>
 
 ## ✍️ Random Dev Quote
 
-<div align="center">
+<div >
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" height="220" width="" alt="streak graph"  />
 </div>
-
-<!--
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) -->
-
-<!--
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mspsohan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=mspsohan&theme=dark&hide_border=false)<br/> -->
-
-<!-- ---
-
-[![](https://visitcount.itsvg.in/api?id=mspsohan&icon=0&color=0)](https://visitcount.itsvg.in) -->
