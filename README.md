@@ -1,9 +1,3 @@
-<style>
-  a {
-    text-decoration: none;
-  }
-</style>
-
 [![Sohan Perves](./assets/github-banner.png)](https://linkedin.com/in/mspsohan)
 
 <!-- Profile View
