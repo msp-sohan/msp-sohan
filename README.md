@@ -1,10 +1,10 @@
-[![Sohan Perves](./assets/github-banner.png)](https://linkedin.com/in/mspsohan)
+[![Sohan Perves](./assets/github-banner.jpg)](https://linkedin.com/in/mspsohan)
 
 <!-- Profile View
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mspsohan&label=Profile%20views&color=0e75b6&style=flat" alt="mspsohan" /> </p> -->
 
 <h1 align="center">Hi 👋, I'm Md. Sohan Perves</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh.</h3>
+<h3 align="center">A passionate Web Developer from Bangladesh.</h3>
 
 ## 👩 About me:
 
@@ -17,11 +17,12 @@ As a <b>Web Developer</b>, I embody qualities of <b>self-motivation</b>, <b>deta
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sohanperves.sp) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mspsohan) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mspsohan)
 
 <h2>🥇 Main Skills:</h2>
-💧 <b>FrontEnd</b>: HTML/HTML5, CSS/CSS3, JavaScript, React/Next.js, Tailwind CSS, Material UI...<br/>
-🚀 <b>BackEnd</b>: Node.js, ExpressJS, Mongoose...<br/>
-💥 <b>Database</b>: MongoDB...<br/>
+💧 <b>FrontEnd</b>: HTML/HTML5, CSS/CSS3, JavaScript, React/Next.js, Tailwind CSS, Material UI..<br/>
+🛠 <b>BackEnd</b>: Node.js, ExpressJS, Mongoose..<br/>
+🛢 <b>Database</b>: MongoDB.. <br/>
+🧰 <b>Tools</b>: Git, Github, Postman, Figma, Firebase, VS Code..
 
-I am a frontend (MERN stack) developer, passionate about delivering exceptional user experiences and building robust applications.
+<!-- I am a frontend (MERN stack) developer, passionate about delivering exceptional user experiences and building robust applications. -->
 
 </p>
 
