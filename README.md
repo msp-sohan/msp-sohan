@@ -30,38 +30,38 @@ As a <b>Web Developer</b>, I embody qualities of <b>self-motivation</b>, <b>deta
 
 <table align="center">
    <tr>
+   <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" />
+      <br>Javascript
+    </td>
     <td align="center" width="90">
     <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
       <br>React
+    </td>
+    <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=redux" alt="icon" width="50" height="50" />
+      <br>Redux
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=nextjs" width="55" height="55" alt="Next.js" />
       <br>Next.js
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" />
-      <br>Javascript
-    </td>
-        <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="55" alt="Tailwind" />
-      <br>Tailwind
-    </td>
-        <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=materialui" width="45" height="55" alt="MUI v5" />
-      <br>MaterialUI
-    </td>
-    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=express" width="50" height="55" alt="Express" />
       <br>Express
     </td>
-        <td align="center" width="90">
+    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="55" alt="MongoDB" />
       <br>MongoDB
     </td>
-  </tr>
-     <tr>
+    <td align="center" width="90">
+         <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="45" height="45" />
+      <br>Firebase
+      </td>
+    </tr>
+    <tr>
       <td align="center" width="90">
-         <img src="https://skillicons.dev/icons?i=html" alt="icon" width="100" height="35" />
+        <img src="https://skillicons.dev/icons?i=html" alt="icon" width="100" height="35" />
       <br>Html
     </td>
       <td align="center" width="90">
@@ -69,12 +69,16 @@ As a <b>Web Developer</b>, I embody qualities of <b>self-motivation</b>, <b>deta
       <br>Css
       </td>
       <td align="center" width="90">
-         <img src="https://skillicons.dev/icons?i=figma" alt="icon" width="30" height="35" />
-      <br>Figma
+        <img src="https://skillicons.dev/icons?i=tailwind" width="35" height="35" alt="Tailwind" />
+      <br>Tailwind
       </td>
       <td align="center" width="90">
-         <img src="https://skillicons.dev/icons?i=firebase" alt="icon" width="35" height="35" />
-      <br>Firebase
+        <img src="https://skillicons.dev/icons?i=materialui" width="35" height="35" alt="MUI v5" />
+        <br>MaterialUI
+      </td>
+      <td align="center" width="90">
+         <img src="https://skillicons.dev/icons?i=figma" alt="icon" width="35" height="45" />
+      <br>Figma
       </td>
       <td align="center" width="90">
          <img src="https://skillicons.dev/icons?i=git" alt="icon" width="35" height="35" />
